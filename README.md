@@ -1,6 +1,6 @@
 # GUI-reports
 These are the pdfs for the GUI module
-There are several pdfs that expalins the whole web app project. The other members who worked on this project:
+There are several pdfs that expalin the whole web app project. The other members who worked on this project:
 
 (Sehbaan Ali: https://github.com/Sehbaan)
 
